@@ -6,3 +6,5 @@ lol i am liking this
 
 # this change is for feature 1 
 thus is yet another change for feature 1 from feature2
+
+# check for  feature 2
